@@ -1,0 +1,19 @@
+{
+  "ads": [
+    {
+      "id": "ad-1787931740000",
+      "brandName": "کامپیوترهای دهه ۱۹۸۰",
+      "link": "https://amigastore.ir/book-list.html",
+      "phone": "09116546234",
+      "bannerLink": "https://uploadkon.ir/uploads/82cb28_26banner1.gif",
+      "cardLast4": "5555",
+      "transactionId": "55555555",
+      "status": "approved",
+      "type": "special",
+      "priceText": "۱,۰۰۰,۰۰۰ تومان",
+      "createdAt": "۱۴۰۵/۶/۶",
+      "approvedAt": "2026-08-28T15:44:18.374Z",
+      "expiresAt": "۱۴۰۵/۷/۶"
+    }
+  ]
+}
