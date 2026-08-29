@@ -1,0 +1,38 @@
+{
+  "globalPrice": 0,
+  "musicPrice": 19000,
+  "sellerCard": "5894631824735997",
+  "masterCode": "Q9xR3mK8pL5vN2wY6hJ1",
+  "admins": [
+    {
+      "name": "sara",
+      "code": "A1b2C3d4E5f6G7h8I9j0"
+    }
+  ],
+  "totalViews": 751,
+  "todayDate": "۱۴۰۵/۶/۳",
+  "todayViews": 37,
+  "bookFiles": [
+    "magazines4guest.json",
+    "magazines101.json",
+    "magazines10.json",
+    "magazines12.json",
+    "magazines1.json",
+    "magazines2.json",
+    "magazines3.json",
+    "magazines4.json",
+    "magazines5.json",
+    "magazines6.json",
+    "magazines7.json",
+    "magazines8.json",
+    "magazines9.json",
+    "magazines11.json",
+    "magazines13.json",
+    "magazines14.json",
+    "magazines15.json",
+    "magazines16.json"
+  ],
+  "musicFiles": [
+    "music.json"
+  ]
+}
