@@ -3,15 +3,7 @@
   "musicPrice": 19000,
   "sellerCard": "5894631824735997",
   "masterCode": "Q9xR3mK8pL5vN2wY6hJ1",
-  "admins": [
-    {
-      "name": "sara",
-      "code": "A1b2C3d4E5f6G7h8I9j0"
-    }
-  ],
-  "totalViews": 751,
-  "todayDate": "۱۴۰۵/۶/۳",
-  "todayViews": 37,
+  "admins": [],
   "bookFiles": [
     "magazines4guest.json",
     "magazines101.json",
@@ -34,5 +26,13 @@
   ],
   "musicFiles": [
     "music.json"
-  ]
+  ],
+  "adPrices": {
+    "text": 1000000,
+    "special": 1000000,
+    "vip10": 500000,
+    "vip30": 1000000,
+    "vip100": 2500000,
+    "discountPercent": 0
+  }
 }
