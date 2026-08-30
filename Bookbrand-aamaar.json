@@ -3,5 +3,10 @@
   "todayDate": "۱۴۰۵/۶/۸",
   "todayViews": 3,
   "productsVersion": 30,
-  "giftDownloads": []
+  "giftDownloads": [
+    {
+      "fingerprint": "fp_z5veom",
+      "count": 1
+    }
+  ]
 }
