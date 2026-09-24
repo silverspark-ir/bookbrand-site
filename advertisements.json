@@ -23,10 +23,12 @@
       "bannerLink": "https://cdn.imgurl.ir/uploads/f498140_banner5.gif",
       "cardLast4": "6667",
       "transactionId": "875+75&87",
-      "status": "pending",
+      "status": "approved",
       "type": "special",
       "priceText": "۱٬۰۰۰٬۰۰۰ تومان",
-      "createdAt": "۱۴۰۵/۷/۲"
+      "createdAt": "۱۴۰۵/۷/۲",
+      "approvedAt": "2026-09-24T11:59:49.748Z",
+      "expiresAt": "۱۴۰۵/۸/۲"
     }
   ]
 }
