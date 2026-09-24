@@ -14,6 +14,19 @@
       "createdAt": "۱۴۰۵/۶/۶",
       "approvedAt": "2026-08-28T15:44:18.374Z",
       "expiresAt": "۱۴۰۵/۷/۶"
+    },
+    {
+      "id": "ad-1790251097927",
+      "brandName": "Game Vault",
+      "link": "https://c64spark.ir/",
+      "phone": "09116546234",
+      "bannerLink": "https://cdn.imgurl.ir/uploads/f498140_banner5.gif",
+      "cardLast4": "6667",
+      "transactionId": "875+75&87",
+      "status": "pending",
+      "type": "special",
+      "priceText": "۱٬۰۰۰٬۰۰۰ تومان",
+      "createdAt": "۱۴۰۵/۷/۲"
     }
   ]
 }
